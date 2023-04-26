@@ -37,11 +37,18 @@ The process for submitting and reviewing HIPs is as follows:
 
 ## Contributing
 
-We encourage members of the PDX Hackerspace and the wider community to contribute to this repository by submitting new HIPs or participating in the review process. To submit a new HIP, please follow these steps:
+We encourage members of PDX Hackerspace and the wider community to contribute to this repository by submitting new HIPs or participating in the review process. To submit a new HIP, please follow these steps:
 
 1. Review existing HIPs in the `HIPs` folder and the `HIPs-by-number.md` index to ensure your proposal is not a duplicate.
 2. Create a fork of this repository and clone it to your local machine.
 3. Create a new branch for your proposal, e.g., `hip-<number>-proposal`.
 4. Copy the `hip-template.md` file in the `HIPs` folder, and rename it using the new HIP number.
 5. Edit the new HIP file, filling in the necessary information for your proposal.
-6. Stage and commit the changes, then push the new
+6. Stage and commit the changes, then push the new branch to your forked repository.
+7. Create a pull request for your branch, providing a clear and concise description of your HIP.
+8. Engage in the review process, addressing feedback and making updates to your HIP as necessary. Be responsive to community input and collaborate with others to refine your proposal.
+
+## License
+
+This repository and its contents are licensed under the MIT License. By contributing to this repository, you agree to license your contributions under the same license. For more information, please see the [LICENSE](LICENSE) file in this repository.
+
